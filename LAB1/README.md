@@ -1,3 +1,3 @@
-#Este  es el primer título del laboratorio
+# LABORATORIO BSM
 
-hola que tal, me quiero guardar
+Primer commit
